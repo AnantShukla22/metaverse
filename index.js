@@ -1,6 +1,6 @@
 import Movements from "./movement.js"
 import polygon from "./Web3.js";
-import abi from "./abi.json" assert { type: "json" };
+import abi from "./src/abi.json" assert { type: "json" };
 
 const scene = new THREE.Scene();
 // to change the color of the scene(background) with hexa decimal code

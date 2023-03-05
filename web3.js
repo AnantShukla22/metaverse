@@ -1,5 +1,5 @@
 // defining its type
-import abi from "./abi.json" assert { type: "json" };
+import abi from "./src/abi.json" assert { type: "json" };
 
 
 // creating a promise, whenever it is called the meta function will work
